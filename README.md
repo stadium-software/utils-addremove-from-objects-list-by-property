@@ -1,6 +1,6 @@
 # Add Remove Object From List By Property
 
-A script to check a list for an object by a property of that object and (1) add the object if it is not found or (2) remove the object if it is found. 
+A script to check a list for an object by a property of that object and (1) add the object if it is not found or (2) remove the object if it is found. The 
 
 # Version 
 
@@ -17,7 +17,7 @@ A script to check a list for an object by a property of that object and (1) add 
 4. Drag a *JavaScript* action into the script
 5. Add the Javascript below into the JavaScript code property
 ```javascript
-//Stadium Script AddRemove From List of Objects By Property v1.0 https://github.com/stadium-software/utils-addremove-from-objects-list-by-property
+//Stadium Script v1.0 https://github.com/stadium-software/utils-addremove-from-objects-list-by-property
 let arr = ~.Parameters.Input.List;
 let property = ~.Parameters.Input.Property;
 let ob = ~.Parameters.Input.Object;
