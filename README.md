@@ -1,6 +1,6 @@
 # Add Remove Object From List By Property
 
-A script to check a list for an object by a property of that object and (1) add the object if it is not found or (2) remove the object if it is found. The 
+A script to check a list for an object by a property of that object and (1) add the object if it is not found or (2) remove the object if it is found. A new List is returned. 
 
 # Version 
 
